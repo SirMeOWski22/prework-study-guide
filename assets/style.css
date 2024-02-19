@@ -3,7 +3,14 @@
     padding: 0;
 }
 
-header,
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #18af48;
+    color: #f4f8ff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
 footer {
     width: 100%;
     height: 70px;
